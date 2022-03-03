@@ -1,0 +1,35 @@
+Angular Exercise
+
+Introduction
+
+
+This exercise is to test your ability to write code in any web programming language with elegance. You will be evaluated on how you, use the programming language’s latest features. The lesser code you write a to implement a defined functionality, the more you score. Use packages extensively to solve the challenges.
+
+Exercise #1: Online retail shop
+
+
+Build an Online retail shop in Angular/Flutter/ any web framework of your choice where users can add and list products. Users should be able to order the available products. You can use the below API for products and order operations. We have enabled Swagger for your better understanding of API. 
+
+Swagger URL: https://uiexercise.onemindindia.com/swagger/index.html
+
+Navigate to the swagger URL above to understand the API and its parameters. This will help you to understand the API that can be used for fetching available products, add products, and also order products. 
+
+To get a list of products to use URL: https://uiexercise.onemindindia.com/api/Product [Get]
+
+To add products use URL: https://uiexercise.onemindindia.com/api/Product [Post]
+
+To Order products use URL: https://uiexercise.onemindindia.com/api/OrderProducts [Post]
+
+For parameters for API use the swagger URL above to understand the format and data that needs to be passed.
+
+You should create pages to add products, list products, and order products from the product listed. You should use the above API to perform these operations. 
+
+Exercise #2: Unit Testing
+Write a 4-5 number of unit tests for your application for any of the modules. This exercise will be evaluated not based on the complexity of the test cases but on the elegance of how it is written. You should have used dependency injection in your application, so mock the dependencies.
+
+
+
+Non-Mandatory Exercise: PWA 
+
+
+Convert your existing web application to PWA, deploy, and share the URL in the exercise. This is non-mandatory but adds to your overall score.
